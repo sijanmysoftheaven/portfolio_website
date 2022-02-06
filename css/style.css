@@ -15,7 +15,11 @@ body
 	font-weight: 700;
 	letter-spacing: 0.2rem;
 	background: rgba(0,0,0,0.6 ) !important;
+<<<<<<< HEAD
 	padding: 30px 0;
+=======
+	padding: 20px 0;
+>>>>>>> 8f7f96be8a1d4af36175f4b244d0e49d164d74cc
 	margin-bottom: 0px;
 	max-height: 25px;
 }
@@ -29,11 +33,18 @@ body
 {
 	color: #1ebba3;
 }
+<<<<<<< HEAD
 
 .heading-content
 {
 	position: absolute;
 	top: 40%;
+=======
+.heading-content
+{
+	position: absolute;
+	top: 50%;
+>>>>>>> 8f7f96be8a1d4af36175f4b244d0e49d164d74cc
 	width: 100%;
 	max-width: 100%;
 }
@@ -113,6 +124,7 @@ body
 {
 	display: block;
 	content: " ";
+<<<<<<< HEAD
 	height: 3rem;
 
 }
@@ -270,5 +282,8 @@ body
       margin-top: -20px;
       margin-left: 5px;
 	}
+=======
+	height: 6rem;
+>>>>>>> 8f7f96be8a1d4af36175f4b244d0e49d164d74cc
 
 }
